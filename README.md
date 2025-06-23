@@ -9,7 +9,7 @@ This repository highlights my certified learning journey in Python, Data Analyti
 **Python Essentials 1**  
 *Cisco Networking Academy*  
 📅 Completed: September 19, 2024  
-📄 [View Certificate](./python_essentials_cisco.pdf)
+📄 [View Certificate](forage_BA__data_science.pdf)
 
 ---
 
