@@ -10,7 +10,7 @@ This repository features my certifications in data science, analytics, databases
 **Data Science Virtual Experience Program**  
 *Forage x British Airways*  
 📅 Completed: May 24, 2025  
-📄 [View Certificate](./forage_ba_data_science.pdf)
+📄 [View Certificate](forage_BA__data_science.pdf)
 
 ---
 
@@ -19,7 +19,7 @@ This repository features my certifications in data science, analytics, databases
 **Data Analytics Virtual Experience Program**  
 *Forage x Deloitte*  
 📅 Completed: April 4, 2025  
-📄 [View Certificate](./forage_deloitte_data_analytics.pdf)
+📄 [View Certificate](forage_deloitte_data_analytics.pdf)
 
 ---
 
@@ -27,7 +27,7 @@ This repository features my certifications in data science, analytics, databases
 
 **Introduction to Data Analytics**  
 📅 Completed: March 22, 2025  
-📄 [View Certificate](./intro_to_data_analytics.pdf)
+📄 [View Certificate](intro_to_data_analytics.pdf)
 
 ---
 
@@ -35,14 +35,14 @@ This repository features my certifications in data science, analytics, databases
 
 **Oracle Academy – Database Programming with SQL**  
 📅 Completed: November 7, 2024  
-📄 [View Certificate](./oracle_sql_cert1.pdf)
+📄 [View Certificate](oracle_sql_cert1.pdf)
 
 ---
 
 ## 5️⃣ Database Programming with SQL – Certificate 2
 
 **Oracle Academy – Database Programming with SQL (Copy)**  
-📄 [View Certificate](./oracle_sql_cert2.pdf)
+📄 [View Certificate](oracle_sql_cert2.pdf)
 
 ---
 
@@ -51,7 +51,7 @@ This repository features my certifications in data science, analytics, databases
 **Operating Systems Basics**  
 *Cisco Networking Academy x Marwadi University*  
 📅 Completed: February 25, 2025  
-📄 [View Certificate](./os_basics_cisco.pdf)
+📄 [View Certificate](os_basics_cisco.pdf)
 
 ---
 
@@ -60,7 +60,7 @@ This repository features my certifications in data science, analytics, databases
 **Python Essentials 1**  
 *Cisco Networking Academy*  
 📅 Completed: September 19, 2024  
-📄 [View Certificate](./python_essentials_cisco.pdf)
+📄 [View Certificate](python_essentials_cisco.pdf.pdf)
 
 ---
 
@@ -68,7 +68,7 @@ This repository features my certifications in data science, analytics, databases
 
 **AI & ML Workshop – Techkriti’25**  
 *Organized by IIT Kanpur @ Marwadi University*  
-📄 [View Certificate](./techkriti_ai_ml_workshop.pdf)
+📄 [View Certificate](.techkriti_ai_ml_workshop.pdf)
 
 ---
 
